@@ -1,4 +1,2 @@
 1.pencil
 2.headphone
-3.laptop
-
